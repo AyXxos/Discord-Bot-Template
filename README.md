@@ -19,10 +19,6 @@ npm install
 ```
 DISCORD_TOKEN=your-bot-token
 ```
-5. Start the bot
-```bash
-node main.js
-```
 
 ## Discord Developer Portal
 
