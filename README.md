@@ -9,7 +9,7 @@ git clone https://github.com/AyXxos/Discord-Bot-Template.git
 ```
 2. Navigate to the project directory
 ```bash
-cd your-repo
+cd Discord-Bot-Template
 ```
 3. Install the dependencies
 ```bash
