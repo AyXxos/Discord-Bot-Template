@@ -15,7 +15,7 @@ cd your-repo
 ```bash
 npm install
 ```
-4. In the `.env` file in the root directory, add your bot token
+4. In the *`.env`* file in the root directory, add your bot token
 ```
 DISCORD_TOKEN=your-bot-token
 ```
@@ -36,7 +36,7 @@ node main.js
    
 5. Under **"Token"**, click **"Copy"** to copy your bot token
    
-6. Paste your bot token into the `.env` file
+6. Paste your bot token into the *`.env`* file
 
 7. To invite the bot, go to the **"OAuth2"** tab
 
@@ -45,3 +45,16 @@ node main.js
 9.  Under **"Bot Permissions"**, select the permissions you want to grant your bot
 
 10. Copy the generated URL and paste it into your browser to invite the bot to your server
+
+## Starting the Bot
+
+1. Make sure you have your bot token in the *`.env`* file
+   
+2. Open your terminal and navigate to the project directory
+
+3. Run the following command to start the bot
+```bash
+node main.js
+```
+
+4. Your bot should now be running! You can test it by *`/ping`* the bot.
